@@ -27,5 +27,6 @@ public class Carrito extends AppCompatActivity implements View.OnClickListener {
         Intent myintent = new Intent(this,MainActivity.class);
         startActivity(myintent);
 
+
     }
 }
